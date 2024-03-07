@@ -1,0 +1,15 @@
+﻿  Core.cpp
+C:\Users\velit\Desktop\Verlet-Physics-Engine\myvector.h(24,2): warning C4091: 'static ': ignored on left of 'MyVectorMath' when no variable is declared
+  (compiling source file 'Core.cpp')
+  
+C:\Users\velit\Desktop\Verlet-Physics-Engine\Core.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Core.cpp')
+  
+C:\Users\velit\Desktop\Verlet-Physics-Engine\Core.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\velit\Desktop\Verlet-Physics-Engine\Solver.h(27,3): warning C4091: 'static ': ignored on left of 'physics::Solver' when no variable is declared
+  (compiling source file 'Core.cpp')
+  
+C:\Users\velit\Desktop\Verlet-Physics-Engine\Core.cpp(210,77): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\velit\Desktop\Verlet-Physics-Engine\Core.cpp(210,63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\velit\Desktop\Verlet-Physics-Engine\Core.cpp(254,15): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  Verlet-Physics-Engine.vcxproj -> C:\Users\velit\Desktop\Verlet-Physics-Engine\x64\Debug\Verlet-Physics-Engine.exe
